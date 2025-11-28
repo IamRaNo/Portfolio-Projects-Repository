@@ -2,7 +2,7 @@ import kagglehub
 import pandas as pd
 import os
 
-path = kagglehub.dataset_download("olistbr/brazilian-ecommerce")
+path = kagglehub.dataset_download("anlgrbz/student-demographics-online-education-dataoulad")
 print("Path to dataset files:", path)
 
 
